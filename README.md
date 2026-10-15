@@ -1,4 +1,3 @@
-# EXP-1
 EXPT NO: 1	VERIFICATION OF KIRCHHOFF’S LAWS
 AIM
 a.   To verify Kirchhoff’s Voltage Law (KVL) for the given circuit. 
@@ -44,31 +43,43 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
 
+ <img width="990" height="1279" alt="WhatsApp Image 2026-10-15 at 4 15 36 PM" src="https://github.com/user-attachments/assets/82c1d7c8-5ee7-4f54-8013-b72c335d2650" />
+
+<img width="1280" height="780" alt="WhatsApp Image 2026-10-15 at 4 15 00 PM" src="https://github.com/user-attachments/assets/82860e25-84af-4e2d-a7f1-a091b96cdbaf" />
 
 b.  KCL:
- 
+
+<img width="1114" height="1280" alt="WhatsApp Image 2026-10-15 at 4 21 40 PM" src="https://github.com/user-attachments/assets/5f7c15dd-663a-4f60-8e4f-9f8708d332ed" />
+
+<img width="1280" height="597" alt="WhatsApp Image 2026-10-15 at 4 20 10 PM" src="https://github.com/user-attachments/assets/ea754ae2-ceb2-4df0-86d8-bea959f9180e" />
+
 
 Calculation:
 
 a.   KVL:
  
+ <img width="1280" height="1053" alt="WhatsApp Image 2026-10-15 at 4 22 15 PM" src="https://github.com/user-attachments/assets/c1291327-b191-4549-9dcc-4e520fd5732d" />
 
+<img width="1280" height="1083" alt="WhatsApp Image 2026-10-15 at 4 22 47 PM" src="https://github.com/user-attachments/assets/8f2b1df1-e1a5-4a40-8361-cd3bef4df8e0" />
 
 b.  KCL:
 
+<img width="1195" height="1280" alt="WhatsApp Image 2026-10-15 at 4 23 11 PM" src="https://github.com/user-attachments/assets/f0892943-e0ec-4e1f-b119-952098a6788b" />
 
+<img width="1280" height="1076" alt="WhatsApp Image 2026-10-15 at 4 23 22 PM" src="https://github.com/user-attachments/assets/545106e4-749f-4e97-b574-1fb676948b56" />
 
 
 Tabulation:
 
 a.   KVL:
  
+<img width="1280" height="654" alt="WhatsApp Image 2026-10-15 at 4 23 30 PM" src="https://github.com/user-attachments/assets/0b40a1c0-3ee2-42eb-bad4-40c1394b7b79" />
 
 
 b.  KCL:
 
+<img width="1280" height="712" alt="WhatsApp Image 2026-10-15 at 4 23 43 PM" src="https://github.com/user-attachments/assets/746301b8-2aed-4b54-9e33-860fa9560ae7" />
 
 
 RESULT:
