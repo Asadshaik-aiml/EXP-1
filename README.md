@@ -53,7 +53,7 @@ b.  KCL:
 
 <img width="1114" height="1280" alt="WhatsApp Image 2026-10-15 at 4 21 40 PM" src="https://github.com/user-attachments/assets/5f7c15dd-663a-4f60-8e4f-9f8708d332ed" />
 
-<img width="1280" height="597" alt="WhatsApp Image 2026-10-15 at 4 20 10 PM" src="https://github.com/user-attachments/assets/ea754ae2-ceb2-4df0-86d8-bea959f9180e" />
+<img width="1280" height="597" alt="WhatsApp Image 2026-10-15 at 4 20 10 PM" src="https://github.com/user-attachments/assets/4a6b40d4-e7eb-40f7-9d04-371a74084e48" />
 
 
 Calculation:
